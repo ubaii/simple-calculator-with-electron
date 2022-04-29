@@ -102,7 +102,7 @@ Distributed under the MIT License. See `LICENSE.txt` for more information.
 <!-- CONTACT -->
 ## Contact
 
-Ubaii ID - [@your_twitter](https://twitter.com/ubaii_id) - ubaynakphe.i@gmail.com
+Ubaii ID - [@ubaii_id](https://twitter.com/ubaii_id) - ubaynakphe.i@gmail.com
 
 Project Link: [https://github.com/ubaii/simple-calculator-with-electron](https://github.com/ubaii/simple-calculator-with-electron)
 
