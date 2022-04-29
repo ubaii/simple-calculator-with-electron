@@ -28,7 +28,7 @@
 <!-- PROJECT LOGO -->
 <br />
 <div align="center">
-  <a href="https://github.com/othneildrew/Best-README-Template">
+  <a href="https://github.com/Ubaii/simple-calculator-with-electron/">
     <img src="package/icon.ico" alt="Logo" width="80" height="80">
   </a>
 
