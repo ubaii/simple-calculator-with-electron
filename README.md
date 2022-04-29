@@ -52,20 +52,20 @@
 
 ### Built With
 
-This section should list any major frameworks/libraries used to bootstrap your project. Leave any add-ons/plugins for the acknowledgements section. Here are a few examples.
+Calculator app is built it with this awesome framework
 
 * [Node.Js](https://nodejs.org/)
-* [Electron](https://www.electronjs.org/)
+* [ElectronJS](https://www.electronjs.org/)
 * [Electron-Builder](https://www.electron.build/)
 
 ### Prerequisites
 
-This is an example of how to list things you need to use the software and how to install them.
+Prequisites
 * npm install
 
 ### Installation
 
-_Below is an example of how you can instruct your audience on installing and setting up your app. This template doesn't rely on any external dependencies or services._
+_Installation step._
 
 1. Clone the repo
    ```sh
